@@ -27,9 +27,12 @@
   // terminal
   "terminal.integrated.fontSize": 16,
   "terminal.integrated.profiles.windows": {
-  "Git Bash": {
-    "source": "Git Bash"
-  }
-},
-"terminal.integrated.defaultProfile.windows": "Git Bash"
+    "Git Bash": {
+      "source": "Git Bash"
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+
+  //git
+  "git.path": "/usr/bin/git"
 }
